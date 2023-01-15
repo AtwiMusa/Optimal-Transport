@@ -1,4 +1,4 @@
-# Seminar: Entropic OT
+# Seminar: Entropic optimal transport
 
 I have done this seminar throughtout my master's degree in Scientific Computing at TU Berlin, and the main topic was:
 
